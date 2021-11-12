@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+li{
+    background: blue;
+    width: 25%;
+    min-width: 75%;
+    margin: 0 auto;
+}
+.imgk{
+    margin: 0 auto;
+}
